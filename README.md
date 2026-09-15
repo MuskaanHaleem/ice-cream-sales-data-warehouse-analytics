@@ -448,7 +448,7 @@ This supports:
 
 > Power BI dashboard screenshots are maintained inside the `Screenshots` directory.
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Ice Cream Sales Dashboard](Screenshots/Sales_dashboard.png)
 
 ---
 
